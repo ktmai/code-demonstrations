@@ -1,2 +1,3 @@
-# blog-implementations
-Demonstrations for my blog
+# Blog Implementations
+
+Contains supplementary code for my [blog](https://ktmai.github.io/articles/).
